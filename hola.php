@@ -1,4 +1,4 @@
 <?php 
-echo "Hola mundo desde PHP";
+echo "Hola desde el repositorio de GitHub!";
 
 ?>
